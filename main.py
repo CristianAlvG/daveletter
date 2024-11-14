@@ -14,3 +14,9 @@ with col4:
         carta = file.read()
 
     st.warning(carta)
+
+    st.markdown("""
+    <a href="https://www.flaticon.com/free-icons/super-mario" title="super mario icons">
+        Super Mario icons created by Freepik - Flaticon
+    </a>
+    """, unsafe_allow_html=True)
